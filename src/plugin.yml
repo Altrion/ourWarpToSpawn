@@ -1,0 +1,7 @@
+name: ourWarpToSpawn
+version: 1.0
+author: spigot:NoPremMC
+main: io.github.altrion.ourWarpToSpawn.OurWTS
+description: a plugin to set specified player location when he leaves so when he joins it sets him there
+api-version: 1.13
+database: false
